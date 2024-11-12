@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah Ibrahim</h1>
-<h3 align="center">A passionate Frontend Developer with a knack for transforming complex ideas into seamless, user-friendly web experiences. Code is my canvas, and I love painting with JavaScript, HTML, and CSS. When I'm not wrestling with responsive design or optimizing performance, you might find me exploring the latest trends in web development, diving into open-source projects, or sharing my journey with the developer community.</h3>
+<h3 align="left">A passionate Frontend Developer with a knack for transforming complex ideas into seamless, user-friendly web experiences. Code is my canvas, and I love painting with JavaScript, HTML, and CSS. When I'm not wrestling with responsive design or optimizing performance, you might find me exploring the latest trends in web development, diving into open-source projects, or sharing my journey with the developer community.</h3>
 
 - 🌱 I’m currently learning **Vue.js**
 
