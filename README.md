@@ -27,7 +27,8 @@ Tools & Platforms: Git, GitHub, Webpack, npm
 
 📫 Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/sarahibrahim0/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sarahibrahim0/)
 
-Blog: https://react-blog-86b6e.web.app/
+
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Ghost&logoColor=white)](https://react-blog-86b6e.web.app/)
 
